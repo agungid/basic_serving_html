@@ -1,0 +1,11 @@
+{
+  "name": "serveringhtml",
+  "version": "1.0.0",
+  "description": "Membuat server html sederhana",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "M Agung Sutrisno",
+  "license": "ISC"
+}
